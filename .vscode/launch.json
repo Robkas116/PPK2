@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/dokumenty/studia/ppk/Laborka/PPK2/PPK2",
-      "program": "d:/dokumenty/studia/ppk/Laborka/PPK2/PPK2/build/Debug/outDebug",
+      "cwd": "d:/dokumenty/studia/ppk/Laborka/PPK2/PPK2/PPK2-1",
+      "program": "d:/dokumenty/studia/ppk/Laborka/PPK2/PPK2/PPK2-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

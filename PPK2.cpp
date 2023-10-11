@@ -37,14 +37,10 @@ std::cout << "a / b = " << (1.0*a)/(1.0*b) << std::endl;
 int x,y,z;
 std::cout << "Podaj x,y,z: " << std::endl;
 std::cin >> x >> y >> z;
-int tablica[x,y,z];
-int min = tablica[0];
+int min = x < y ? x : y;
+min = z < min ? z : min;
 
-for(int i=0; i<sizeof(tablica); i++){
-  if (tablica[i]<min)
-      min = tablica[i];
-    }
-
+std::cout << min << std::endl;
 
 
 
